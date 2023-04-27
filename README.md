@@ -5,5 +5,4 @@ Generate an article from an idea about a topic you want to write about. E.g, Fro
 
 Due to OpenAI API Limitation: I will not be hosting this in public.
 
-Demo: https://user-images.githubusercontent.com/24550889/234731239-32fcf475-7cac-4bbd-af86-8a9a6956f2fc.mp4
-
+Demo: https://user-images.githubusercontent.com/24550889/234732610-24e824d9-54a0-4dc5-bc82-93e9ccaf878c.webm
